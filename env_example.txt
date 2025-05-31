@@ -1,0 +1,12 @@
+# Bu dosyayı .env olarak kopyalayın ve değerleri girin
+
+# Telegram Bot Token - @BotFather'dan alın
+BOT_TOKEN=your_telegram_bot_token_here
+
+# Savaş bildirimlerinin gönderileceği grup/kanal ID'si
+# @userinfobot'u grubunuza ekleyip /start yazarak alabilirsiniz
+NOTIFICATION_CHAT_ID=your_group_or_channel_id_here
+
+# Admin kullanıcı ID'leri (virgülle ayırın)
+# @userinfobot'a özel mesaj göndererek ID'nizi alabilirsiniz
+ADMIN_USER_IDS=123456789,987654321 
