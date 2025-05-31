@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png" height="200" alt="dostluk klan rozeti" />
+	<img src="https://api-assets.clashofclans.com/badges/200/BbOiJGTyOXe7oxCFiCYfg-oRyzXm8ZeN_rFjnjNn9HA.png" height="200" alt="dostluk klan rozeti" />
 </p>
 
 # 🤖 dostluk Clash of Clans Telegram Bot
